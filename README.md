@@ -10,7 +10,7 @@ Projekt polega na eksploracyjnej analizie danych kredytowych z pliku `credit_kon
 
 ## Struktura repozytorium
 # Dane
-Zbiór danych użyty w projekcie: [credit_koniec_v2_1.xlsx](https://github.com/Zypeks/analiza_kredytowa/blob/main/credit_koniec_v2_1.xlsx
+Zbiór danych użyty w projekcie: [credit_koniec_v2_1.xlsx](./credit_koniec_v2_1.xlsx)
 - `notebooks/`: Notatnik Jupyter z kodem analizy (`Credit_Analysis.ipynb`).
 - `requirements.txt`: Lista zależności.
 
