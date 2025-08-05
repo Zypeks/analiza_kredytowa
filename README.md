@@ -9,8 +9,8 @@ Projekt polega na eksploracyjnej analizie danych kredytowych z pliku `credit_kon
 - Git
 
 ## Struktura repozytorium
-# Dane
-Zbiór danych użyty w projekcie: [credit_koniec_v2_1.xlsx](./credit_koniec_v2_1.xlsx)
+
+- `dane/` Zbiór danych użyty w projekcie: [credit_koniec_v2_1.xlsx](./credit_koniec_v2_1.xlsx)
 - `notebooks/`: Notatnik Jupyter z kodem analizy (`Credit_Analysis.ipynb`).
 - `requirements.txt`: Lista zależności.
 
